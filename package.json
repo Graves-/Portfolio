@@ -1,0 +1,37 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Graves-/Portfolio.git"
+  },
+  "keywords": [
+    "node",
+    "portfolio",
+    "github"
+  ],
+  "author": "Guillermo Ortiz\tRebolledo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Graves-/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Graves-/Portfolio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0"
+  },
+  "dependencies": {
+    "wiredep": "^4.0.0"
+  }
+}
